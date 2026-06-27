@@ -1,4 +1,3 @@
-[README_fraud.md](https://github.com/user-attachments/files/29406247/README_fraud.md)
 # Financial Fraud Detection with Business Cost Analysis
 
 A machine learning pipeline for detecting financial transaction fraud on a highly imbalanced dataset, with threshold tuning driven by real-world business cost simulation.
